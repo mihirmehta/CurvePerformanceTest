@@ -9,6 +9,7 @@ In this example, we are using the same feature file that determines the hottest 
 I have used scala to write the simulation file which is very simple to understand. We need to have maven installed to execute the tests.
 
 To run this performance test, clone the repo, go into the cloned directory and give the following command:
+
 mvn clean test-compile gatling:test
 
 The karate-config.js file is where the end points are defined. I have intentionally added the apiKey in this file just for demo purposes. In reality, the apiKey can be configured to be picked up from the CI/CD config parameters.
