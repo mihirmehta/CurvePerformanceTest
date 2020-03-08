@@ -1,0 +1,91 @@
+RUN	com.KarateGatlingDemo.TestSimulation	testsimulation	1583702145793	 	3.0.2
+USER	Get the hottest day and coldest day of the week	1	START	1583702145975	1583702145975
+USER	Get the hottest day and coldest day of the week	2	START	1583702147268	1583702147268
+REQUEST	2		GET /v1/history.json/	1583702147370	1583702147457	OK	 
+REQUEST	1		GET /v1/history.json/	1583702147370	1583702147457	OK	 
+USER	Get the hottest day and coldest day of the week	2	END	1583702147268	1583702147703
+USER	Get the hottest day and coldest day of the week	1	END	1583702145975	1583702147705
+USER	Get the hottest day and coldest day of the week	3	START	1583702147764	1583702147764
+REQUEST	3		GET /v1/history.json/	1583702147791	1583702147805	OK	 
+USER	Get the hottest day and coldest day of the week	3	END	1583702147764	1583702147842
+USER	Get the hottest day and coldest day of the week	5	START	1583702148474	1583702148474
+REQUEST	5		GET /v1/history.json/	1583702148506	1583702148520	OK	 
+USER	Get the hottest day and coldest day of the week	5	END	1583702148474	1583702148541
+USER	Get the hottest day and coldest day of the week	4	START	1583702148764	1583702148764
+REQUEST	4		GET /v1/history.json/	1583702148785	1583702148802	OK	 
+USER	Get the hottest day and coldest day of the week	4	END	1583702148764	1583702148822
+USER	Get the hottest day and coldest day of the week	6	START	1583702148974	1583702148974
+REQUEST	6		GET /v1/history.json/	1583702149000	1583702149015	OK	 
+USER	Get the hottest day and coldest day of the week	6	END	1583702148974	1583702149032
+USER	Get the hottest day and coldest day of the week	7	START	1583702149965	1583702149965
+REQUEST	7		GET /v1/history.json/	1583702149994	1583702150006	OK	 
+USER	Get the hottest day and coldest day of the week	7	END	1583702149965	1583702150050
+USER	Get the hottest day and coldest day of the week	8	START	1583702150477	1583702150477
+REQUEST	8		GET /v1/history.json/	1583702150499	1583702150514	OK	 
+USER	Get the hottest day and coldest day of the week	8	END	1583702150477	1583702150527
+USER	Get the hottest day and coldest day of the week	9	START	1583702150974	1583702150974
+REQUEST	9		GET /v1/history.json/	1583702150989	1583702151003	OK	 
+USER	Get the hottest day and coldest day of the week	9	END	1583702150974	1583702151021
+USER	Get the hottest day and coldest day of the week	10	START	1583702151978	1583702151978
+USER	Get the hottest day and coldest day of the week	11	START	1583702152454	1583702152454
+REQUEST	10		GET /v1/history.json/	1583702152002	1583702152489	OK	 
+USER	Get the hottest day and coldest day of the week	10	END	1583702151978	1583702152505
+REQUEST	11		GET /v1/history.json/	1583702152485	1583702152507	OK	 
+USER	Get the hottest day and coldest day of the week	11	END	1583702152454	1583702152521
+USER	Get the hottest day and coldest day of the week	12	START	1583702152954	1583702152954
+REQUEST	12		GET /v1/history.json/	1583702152973	1583702153007	OK	 
+USER	Get the hottest day and coldest day of the week	12	END	1583702152954	1583702153031
+USER	Get the hottest day and coldest day of the week	13	START	1583702153977	1583702153977
+REQUEST	13		GET /v1/history.json/	1583702154001	1583702154025	OK	 
+USER	Get the hottest day and coldest day of the week	13	END	1583702153977	1583702154047
+USER	Get the hottest day and coldest day of the week	14	START	1583702154466	1583702154466
+REQUEST	14		GET /v1/history.json/	1583702154485	1583702154499	OK	 
+USER	Get the hottest day and coldest day of the week	14	END	1583702154466	1583702154516
+USER	Get the hottest day and coldest day of the week	15	START	1583702154966	1583702154966
+REQUEST	15		GET /v1/history.json/	1583702154994	1583702155015	OK	 
+USER	Get the hottest day and coldest day of the week	15	END	1583702154966	1583702155042
+USER	Get the hottest day and coldest day of the week	16	START	1583702155978	1583702155978
+REQUEST	16		GET /v1/history.json/	1583702155998	1583702156017	OK	 
+USER	Get the hottest day and coldest day of the week	16	END	1583702155978	1583702156037
+USER	Get the hottest day and coldest day of the week	17	START	1583702156457	1583702156457
+REQUEST	17		GET /v1/history.json/	1583702156485	1583702156500	OK	 
+USER	Get the hottest day and coldest day of the week	17	END	1583702156457	1583702156517
+USER	Get the hottest day and coldest day of the week	18	START	1583702156957	1583702156957
+REQUEST	18		GET /v1/history.json/	1583702156971	1583702157006	OK	 
+USER	Get the hottest day and coldest day of the week	18	END	1583702156957	1583702157020
+USER	Get the hottest day and coldest day of the week	19	START	1583702157966	1583702157966
+REQUEST	19		GET /v1/history.json/	1583702158003	1583702158020	OK	 
+USER	Get the hottest day and coldest day of the week	19	END	1583702157966	1583702158041
+USER	Get the hottest day and coldest day of the week	20	START	1583702158467	1583702158467
+REQUEST	20		GET /v1/history.json/	1583702158487	1583702158504	OK	 
+USER	Get the hottest day and coldest day of the week	20	END	1583702158467	1583702158532
+USER	Get the hottest day and coldest day of the week	21	START	1583702158965	1583702158965
+REQUEST	21		GET /v1/history.json/	1583702158984	1583702159004	OK	 
+USER	Get the hottest day and coldest day of the week	21	END	1583702158965	1583702159026
+USER	Get the hottest day and coldest day of the week	22	START	1583702159966	1583702159966
+REQUEST	22		GET /v1/history.json/	1583702159981	1583702159995	OK	 
+USER	Get the hottest day and coldest day of the week	22	END	1583702159966	1583702160007
+USER	Get the hottest day and coldest day of the week	23	START	1583702160464	1583702160464
+REQUEST	23		GET /v1/history.json/	1583702160483	1583702160501	OK	 
+USER	Get the hottest day and coldest day of the week	23	END	1583702160464	1583702160511
+USER	Get the hottest day and coldest day of the week	24	START	1583702160966	1583702160966
+REQUEST	24		GET /v1/history.json/	1583702160985	1583702161002	OK	 
+USER	Get the hottest day and coldest day of the week	24	END	1583702160966	1583702161022
+USER	Get the hottest day and coldest day of the week	25	START	1583702161974	1583702161974
+REQUEST	25		GET /v1/history.json/	1583702161991	1583702162021	OK	 
+USER	Get the hottest day and coldest day of the week	25	END	1583702161974	1583702162033
+USER	Get the hottest day and coldest day of the week	26	START	1583702162476	1583702162476
+REQUEST	26		GET /v1/history.json/	1583702162489	1583702162521	OK	 
+USER	Get the hottest day and coldest day of the week	26	END	1583702162476	1583702162540
+USER	Get the hottest day and coldest day of the week	27	START	1583702162974	1583702162974
+REQUEST	27		GET /v1/history.json/	1583702162989	1583702163005	OK	 
+USER	Get the hottest day and coldest day of the week	27	END	1583702162974	1583702163014
+USER	Get the hottest day and coldest day of the week	28	START	1583702163977	1583702163977
+REQUEST	28		GET /v1/history.json/	1583702163990	1583702164017	OK	 
+USER	Get the hottest day and coldest day of the week	28	END	1583702163977	1583702164035
+USER	Get the hottest day and coldest day of the week	29	START	1583702164474	1583702164474
+REQUEST	29		GET /v1/history.json/	1583702164490	1583702164505	OK	 
+USER	Get the hottest day and coldest day of the week	29	END	1583702164474	1583702164517
+USER	Get the hottest day and coldest day of the week	30	START	1583702164979	1583702164979
+REQUEST	30		GET /v1/history.json/	1583702164996	1583702165011	OK	 
+USER	Get the hottest day and coldest day of the week	30	END	1583702164979	1583702165024

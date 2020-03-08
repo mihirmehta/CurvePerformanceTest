@@ -1,0 +1,10 @@
+{
+  "simulation": "com.KarateGatlingDemo.TestSimulation",
+  "simulationId": "testsimulation",
+  "start": 1583702145793,
+  "description": "",
+  "scenarios": ["Get the hottest day and coldest day of the week"],
+  "assertions": [
+
+  ]
+}
